@@ -15,5 +15,5 @@ sticker.save('test')
 </br>
 
 <p align="center">
-  <img src="test.png" alt="Result sticker" width=200 border="4"/>
+  <img src="test.png" alt="Result sticker" width=200/>
 </p>
