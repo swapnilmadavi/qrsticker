@@ -1,0 +1,2 @@
+Pillow==6.2.1
+qrcode==6.1
