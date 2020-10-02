@@ -17,3 +17,8 @@ sticker.save('test')
 <p align="center">
   <img src="test.png" alt="Result sticker" width=200/>
 </p>
+
+## Dependencies
+
+- [Pillow](https://pypi.org/project/Pillow/)
+- [qrcode](https://pypi.org/project/qrcode/)
